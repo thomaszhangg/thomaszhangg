@@ -2,11 +2,11 @@
 
 ## I'm a full stack software engineer!
 
-- 🤯 I’m currently diving deep into data structures & algorithms!
-- 🔭 I’m currently working on a webapp for tracking fitness progress!
-- 👯 I’m looking for full-time and internship oppurtunities - [Resume][resume]
-- ⚡ Fun fact: I practiced Taekwondo for 5 years and I have a Cavapoodle named Theo!
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🤯  I’m currently diving deep into data structures & algorithms!
+- 🔭  I’m currently working on a webapp for tracking fitness progress!
+- 👯  I’m looking for full-time and internship oppurtunities - [Resume][resume]
+- ⚡  Fun fact: I practiced Taekwondo for 5 years and I have a Cavapoodle named Theo!
+- 🥅  2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
